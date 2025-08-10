@@ -2,7 +2,7 @@ import tkinter as tk
 import random
 
 root = tk.Tk()
-root.title("Rock, paper, scissor App")  # As per instruction
+root.title("Rock, paper, scissor App")
 root.geometry("400x400")
 
 choices = ["Rock", "Paper", "Scissors"]
